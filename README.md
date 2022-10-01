@@ -4,11 +4,6 @@ This example application created by [getstream.io](https://getstream.io/?ref=git
 
 Visit [cabin.getstream.io](http://cabin.getstream.io/) for an overview of all 8 tutorials and a [live demo](http://cabin.getstream.io/demo). If you enjoy this tutorial please star this repo.
 
-> Note: Cabin requires Node v8.x or above.
-
-<p align="center">
-  <img src="https://stream-cabin.s3.amazonaws.com/defaults/Cabin_Github@2x.png" alt="Examples of what you can build" title="What you can build"/>
-</p>
 
 ## Blog Posts
 
